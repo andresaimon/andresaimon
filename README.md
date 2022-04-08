@@ -1,7 +1,7 @@
-### Olá 👋
+### Hello 👋
 
-- 🔭 Sou estudante de Engenharia de Computação na Faculdade Independente do Nordeste.
-- 🌱 Estou aprendendo a desenvolver e a gerir projetos nas áreas de web/mobile, redes e sistemas operacionais.
-- 👯 Atualmente, faço estágio no setor de Tecnologia da Informação do Complexo Hospitalar de Vitória da Conquista.
-- 🤔 Tenho estudado as seguintes tecnologias: Node.Js; SQL; Python; Javascript; Typescript; CSS; HTML e C++.
-- 💬 Você pode entrar em contato comigo através do e-mail: andresousa.vr@gmail.com.
+- 🔭 I'm a computer engineering student.
+- 🌱 I have participated in extension and scientific initiation projects.
+- 👯 I currently work with data in a hospital.
+- 🤔 I have studied the following technologies: Node.Js; SQL; Python; Javascript; Java; and C++.
+- 💬 You can contact me via email: andresousa.vr@gmail.com.
